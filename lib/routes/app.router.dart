@@ -1,7 +1,7 @@
-import 'package:app/pages/auth/auth_check/auth_check.dart';
-import 'package:app/pages/homepage/homepage.dart';
-import 'package:app/pages/login/login.dart';
-import 'package:app/pages/post/index.dart';
+import 'package:app/features/auth/auth_check/auth_check.dart';
+import 'package:app/features/homepage/homepage.dart';
+import 'package:app/features/login/login.dart';
+import 'package:app/features/post/index.dart';
 import 'package:auto_route/annotations.dart';
 import 'package:auto_route/auto_route.dart';
 

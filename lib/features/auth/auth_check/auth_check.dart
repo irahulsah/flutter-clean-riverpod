@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:app/pages/auth/auth_state/auth_state.dart';
-import 'package:app/pages/auth/auth_state_notifier/auth_state_notifier_provider.dart';
+import 'package:app/features/auth/auth_state/auth_state.dart';
+import 'package:app/features/auth/auth_state_notifier/auth_state_notifier_provider.dart';
 import 'package:app/routes/app.router.gr.dart';
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';

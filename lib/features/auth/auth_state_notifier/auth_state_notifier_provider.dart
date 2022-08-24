@@ -1,6 +1,7 @@
-import 'package:app/pages/auth/auth_state/auth_state.dart';
 import 'package:app/services/auth.service.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../../../features/auth/auth_state/auth_state.dart';
 
 final authStateNotifierProvider =
     StateNotifierProvider<AuthStateNotifier, AuthState>(
